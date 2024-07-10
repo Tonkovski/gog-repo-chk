@@ -46,7 +46,7 @@ Human words:
 
 * Keep every title under a unique folder named by `[slug_name]`, which can be acquired through GOGDB site.
   * Keep **installer related files** under ```[version]`[platform]``` folder, use multiple folders for different combinations of version & platform.
-  * Keep **bonus contents** under ````bonus``` folder, *gogrepochk* doesn't check for any bonus content updates, for these contents usually remain untouched since release.
-  * Keep **DLCs** under ````dlc``` folder, each DLC should be treated same as a title under its own slug-named folder, with its own **installer related files** and/or **bonus contents**.
-  * Keep other things under ````misc``` folder, no matter it is an official patch, a mod file, or a cheatsheet.
-* Keep no empty folders, e.g. leave no ````dlc``` folder for titles without DLCs owned.
+  * Keep **bonus contents** under ``` `bonus ``` folder, *gogrepochk* doesn't check for any bonus content updates, for these contents usually remain untouched since release.
+  * Keep **DLCs** under ``` `dlc ``` folder, each DLC should be treated same as a title under its own slug-named folder, with its own **installer related files** and/or **bonus contents**.
+  * Keep other things under ``` `misc ``` folder, no matter it is an official patch, a mod file, or a cheatsheet.
+* Keep no empty folders, e.g. leave no ``` `dlc ``` folder for titles without DLCs owned.
